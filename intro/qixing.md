@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/Hack.png" height="400">
+<img src="img/bot.png" height="400">
 
 <h1 align="center">Qi Xing</h1>
 
